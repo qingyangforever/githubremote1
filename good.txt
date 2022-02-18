@@ -1,5 +1,5 @@
 aaaaaaa
-bbbbbbbb
+bbbbbbbb    conflict hot_fix test(different place)
 
 ccccccccccc
 
