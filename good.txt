@@ -1,5 +1,5 @@
 aaaaaaa          conflict master test(different place)
-bbbbbbbb      
+bbbbbbbb       
 
 ccccccccccc
 
